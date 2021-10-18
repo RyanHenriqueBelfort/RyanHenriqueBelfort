@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @RyanHenriqueBelfort
-- 👀 I’m interested in ... 
+- 👋 Hi, I’m Ryan Henrique Belfort
+- 👀 I’m interested in a new opportunity in this area 
 - 🌱 I’m currently learning JS, React and Node.js
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me send an Email at Ryanhenriqueab@gmail.com
