@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Ryan Henrique Belfort
-- 👀 I’m interested in a new opportunity in this area 
-- 🌱 I’m currently learning JS, React and Node.js
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me send an Email at Ryanhenriqueab@gmail.com
+- 👋 Ola eu sou: Ryan Henrique Belfort
+- 👀 Estou interessado em uma vaga Front-end 
+- 🌱 No momento estou aprendendo: JavaScript, TypeScript, React and NextJs
+- 📫 Como entrar em contato comigo: Email at Ryanhenriqueab@gmail.com
 
 <div align="center">
   <a href="https://github.com/RyanHenriqueBelfort">
