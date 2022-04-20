@@ -1,5 +1,4 @@
 - 👋 Ola eu sou: Ryan Henrique Belfort
-- 👀 Estou interessado em uma vaga Front-end 
 - 🌱 No momento estou aprendendo: JavaScript, TypeScript, React and NextJs
 - 📫 Meu Email: Ryanhenriqueab@gmail.com
 
