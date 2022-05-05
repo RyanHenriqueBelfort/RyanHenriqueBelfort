@@ -1,5 +1,5 @@
 - 👋 Ola eu sou: Ryan Henrique Belfort
-- 🌱 No momento estou aprendendo: JavaScript, TypeScript, React and NextJs
+- 🌱 No momento estou aprendendo: TypeScript e NextJs
 - 📫 Meu Email: ryanhenriqueab@gmail.com
 
 <div align="center">
