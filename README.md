@@ -2,6 +2,8 @@
 - 🌱 No momento estou aprendendo: TypeScript e NextJs
 - 📫 Meu Email: ryanhenriqueab@gmail.com
 
+<a href="https://app.daily.dev/RyanBelfort"><img src="https://api.daily.dev/devcards/4445f3fd65b941eca973a562b5c3f7b7.png?r=mw6" width="400" alt="Ryan Henrique de Assis Belfort's Dev Card"/></a>
+
 <div align="center">
   <a href="https://github.com/RyanHenriqueBelfort">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanHenriqueBelfort&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
