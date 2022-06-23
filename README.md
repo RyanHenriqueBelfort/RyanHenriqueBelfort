@@ -9,7 +9,7 @@
 </div>
   
   <div align="center">
-    <a href="https://app.daily.dev/RyanBelfort"><img src="https://api.daily.dev/devcards/4445f3fd65b941eca973a562b5c3f7b7.png?r=mw6" width="200" alt="Ryan Henrique de Assis Belfort's Dev Card"/></a>
+   <a href="https://app.daily.dev/RyanBelfort"><img src="https://api.daily.dev/devcards/4445f3fd65b941eca973a562b5c3f7b7.png?r=ald" width="400" alt="Ryan Henrique de Assis Belfort's Dev Card"/></a>de Assis Belfort's Dev Card"/></a>
   </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ryan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
